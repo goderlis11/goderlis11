@@ -28,19 +28,19 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![POO](https://img.shields.io/badge/Programaci%C3%B3n%20Orientada%20a%20Objetos-6E40C9?style=for-the-badge)
 ![Antigravity](https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge)
 
 ## ⚽ Hobbies
 
 - ⚽ Jugar **fútbol**
 - 🏋️ Ir al **gym** y practicar cualquier otro deporte
-- 🎮 Videojuegos **retro de PS2**, como *Resident Evil 4* y *Need for Speed*
+- 🎮 Videojuegos **retro de PS2**
 
 ## 📫 Contacto
-
+- Correo Institucional: dmcaizah@uce.edu.ec
+- Correo Electronico: derliscaiza941@gmail.com
 - GitHub: [@goderlis11](https://github.com/goderlis11)
 
 ---
 
-<p align="center">⭐ Gracias por visitar mi perfil ⭐</p>
+<p align="center"> Gracias por visitar mi perfil </p>
