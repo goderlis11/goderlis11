@@ -18,17 +18,6 @@
 - 🌱 Estoy aprendiendo **Git y GitHub** en la materia de Algoritmos
 - 🎯 Mi meta: conocer más a fondo la carrera y **especializarme en programación web**
 
-## 🛠️ Herramientas que conozco
-
-> Conozco las bases de cada una y sigo aprendiendo.
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge)
 
 ## ⚽ Hobbies
 
